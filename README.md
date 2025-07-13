@@ -16,4 +16,3 @@ What it becomes will reflect what we value—not just what we can build.**
 ---
 
 **Contact:** [gen@esali.com](mailto:gen@esali.com)
-# .github
